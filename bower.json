@@ -1,5 +1,5 @@
 {
-  "name": "bootstrap3-datetimepicker",
+  "name": "bootstrapV3-datetimepicker",
   "main": ["js/bootstrap-datetimepicker.min.js", "css/bootstrap-datetimepicker.min.css"],
   "ignore": [
     "build",
